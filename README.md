@@ -7,4 +7,4 @@
 <div style= "display: inline_block"><br/>
 <img align="center" alt = "html5" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
-### UECE Computer Science student. Everyday trying to be a better me.
+UECE Computer Science Student, Everyday being a better me.
